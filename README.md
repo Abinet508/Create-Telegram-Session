@@ -1,7 +1,6 @@
-# ```Scrape-Telegram-Users```
+# ```Session-Creator-Telegram-Users```
 
-## Telegram script to scrape users from Telegram groups
-
+## Telegram script to create a Telegram Session
 ## Requirements
 ### ** Prerequisites
 
